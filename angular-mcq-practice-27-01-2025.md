@@ -5,12 +5,23 @@ Your Score: 13 / 25 (52%)
 
 This file stores your answers, correct answers, and learning notes for revision.
 
-📝 Quiz Summary
-Metric	Value
-Total Questions	25
-Correct Answers	13
-Score	52%
-Attempt	1st Attempt
+<h1>Quiz Summary</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Total Questions</td><td>25</td></tr>
+    <tr><td>Correct Answers</td><td>13</td></tr>
+    <tr><td>Score</td><td>52%</td></tr>
+    <tr><td>Attempt</td><td>1st Attempt</td></tr>
+  </tbody>
+</table>
+
+
 📚 Detailed Questions & Answers
 
 Below is a cleaned-up version of all questions with:
