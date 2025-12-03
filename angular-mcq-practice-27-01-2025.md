@@ -3,7 +3,7 @@
 <p><strong>Source:</strong> W3Schools Angular Quiz<br>
 <strong>Your Score:</strong> 13 / 25 (52%)</p>
 
-<p>This file stores your answers, correct answers, and learning notes for revision.</p>
+<p>This file stores my answers, correct answers, and learning notes for revision.</p>
 
 <h2>Quiz Summary</h2>
 
