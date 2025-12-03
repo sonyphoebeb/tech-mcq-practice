@@ -1,11 +1,11 @@
-📘 Angular MCQ Practice — 27 Jan 2025
+<h1>📘 Angular MCQ Practice — 27 Jan 2025</h1>
 
 Source: W3Schools Angular Quiz
 Your Score: 13 / 25 (52%)
 
 This file stores your answers, correct answers, and learning notes for revision.
 
-<h1>Quiz Summary</h1>
+<h2>Quiz Summary</h2>
 <table>
   <thead>
     <tr>
